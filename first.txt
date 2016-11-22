@@ -1,0 +1,11 @@
+?	Experience in Build tools like ANT, Maven and CI Tools like Jenkins/Hudson.
+?	Experience in writing and maintaining ANT Scripts. Wrote Macrodefs and Custom ANT tasks.
+?	Helped users in creating Tags and Release Tags activities.
+?	Daily activities Included Force builds, daily patches.
+?	Integrated Source Control Mechanism (cleanup, checkout, update, commit, tagging…etc) with build systems using Ant and Shell scripting.
+?	Deployed the JAR, WAR and TAR files in testing/production environment servers with Linux OS.
+?	Helped Team leads in Creating Development branches, Support branches and R&D Branches.
+?	Creating and maintaining the repositories in SVN,GIT
+?	Daily activities include resolved issues in development environment like synchronization and commit.
+?	Experience in Version control system SVN(SUBVERSION), GIT.
+Good experience in Apache configuration
